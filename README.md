@@ -1,4 +1,4 @@
-# DataAnalysis
+# Network Text Analysis for Social Media Data
 The aim is to apply network text analysis on extracted tweets region-wise for a product based company to analyse the sentiments of the customers in a given region.
 Procedure:
 The tweets are extracted in real-time based on a keyword (the company name) and saved in a file. 
